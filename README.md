@@ -32,6 +32,3 @@ Your final notebook must:
 
 * In building your script, pay attention to the cities you are using in your query pool. Are you getting coverage of the full gamut of latitudes and longitudes? Or are you simply choosing 500 cities concentrated in one region of the world? Even if you were a geographic genius, simply rattling 500 cities based on your human selection would create a biased dataset. Be thinking of how you should counter this. (Hint: Consider the full range of latitudes).
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
